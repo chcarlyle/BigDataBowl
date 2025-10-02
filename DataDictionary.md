@@ -1,4 +1,5 @@
 ## Data Directory Structure
+
 ```
 |data
     |--- sample_submission.csv
